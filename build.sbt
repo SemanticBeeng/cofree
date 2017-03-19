@@ -14,8 +14,8 @@ scalacOptions ++= Seq(
 )
 
 libraryDependencies ++= Seq(
-  "org.tpolecat" %% "doobie-core"               % "0.3.0",
-  "org.tpolecat" %% "doobie-contrib-postgresql" % "0.3.0",
+  "org.tpolecat" %% "doobie-core"               % "0.4.1",
+  "org.tpolecat" %% "doobie-contrib-postgresql" % "0.4.1",
   "org.tpolecat" %% "doobie-tsql-core"          % "0.1-SNAPSHOT",
   "org.tpolecat" %% "doobie-tsql-postgres"      % "0.1-SNAPSHOT",
   "org.tpolecat" %% "atto-core"                 % "0.5.1",

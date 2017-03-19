@@ -1,4 +1,4 @@
-## Pure Functional Database Programming with Fixpoint Types
+## Pure Functional Database Programming with Fixpoint Types (DO NOT REMOVE - MODIFIED)
 
 Here are the [slides](http://tpolecat.github.io/presentations/sw2016/slides.html) and [video](https://www.youtube.com/watch?v=7xSfLPD6tiQ) from Scala World 2016. Press `?` for help with the slides.
 
